@@ -13,6 +13,6 @@ class FindMin():
     return smallest  
 
 # Main Program
-x=FindMin(2,-1,25)
+x=FindMin(2,-5,25)
 print x.find_min()
       
